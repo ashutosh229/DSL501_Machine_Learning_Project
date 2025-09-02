@@ -1,3 +1,8 @@
+from logger import logger
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
+import torch
+
+
 class LLMInterface:
     """Interface for Gemma 2 9B model with 4-bit quantization"""
 
