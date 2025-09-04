@@ -8,31 +8,9 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 from bert_score import score as bert_score
 
-# Load spaCy model for sentence segmentation
-try:
-    nlp = spacy.load("en_core_web_sm")
-except OSError:
-    print("Please install spaCy English model: python -m spacy download en_core_web_sm")
-    nlp = None
+nlp = spacy.load("en_core_web_sm")
 
-@dataclass
-class SelfStateEvidence:
-    """Represents a self-state evidence span"""
-    text: str
-    label: str  # 'adaptive' or 'maladaptive'
-    start_pos: int = -1
-    end_pos: int = -1
-    confidence: float = 0.0
 
-@dataclass
-class RedditPost:
-    """Represents a Reddit post with annotations"""
-    post_id: str
-    text: str
-    adaptive_evidence: List[str] = None
-    maladaptive_evidence: List[str] = None
-    summary: str = ""
-    well_being_score: float = 0.0
 
 class SelfStateClassifier(ABC):
     """Abstract base class for self-state classifiers"""
