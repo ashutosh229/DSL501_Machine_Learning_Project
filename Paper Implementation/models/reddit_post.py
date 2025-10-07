@@ -1,11 +1,12 @@
-from dataclasses import dataclass
-from typing import List
+from dataclasses import dataclass, field  
+from typing import List  
 
 @dataclass
-class RedditPost:
+class Post:
+    """Represents a Reddit post with annotations"""
     post_id: str
     text: str
-    adaptive_evidence: List[str] = None
-    maladaptive_evidence: List[str] = None
+    adaptive_evidence: List[str] = field(default_factory=list)
+    maladaptive_evidence: List[str] = field(default_factory=list)
     summary: str = ""
-    well_being_score: float = 0.0
+    wellbeing_score: float = 0.0
