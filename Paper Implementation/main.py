@@ -1,6 +1,8 @@
 from scripts.selfstateClassifier import SelfStateClassifier
 from scripts.llm.real import LLMInterface
 from scripts.experimentRunner import ExperimentRunner
+import json
+from models.redditPost import Post
 
 if __name__ == "__main__":
     print("Self-State Identification and Classification System")
