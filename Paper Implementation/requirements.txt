@@ -1,0 +1,16 @@
+torch==2.8.0
+transformers==4.56.0
+accelerate==1.10.1
+bitsandbytes==0.48.1
+bert-score==0.3.13
+spacy==3.8.7
+pandas==2.3.2
+numpy==2.3.2
+matplotlib==3.10.6
+tqdm==4.67.1
+rich==14.1.0
+requests==2.32.5
+pydantic==2.11.7
+psutil==7.1.0
+sympy==1.14.0
+PyYAML==6.0.2
