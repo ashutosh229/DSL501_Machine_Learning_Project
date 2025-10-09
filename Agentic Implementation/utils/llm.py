@@ -4,8 +4,6 @@ import torch
 
 
 class LLMInterface:
-    """Interface for Gemma 2 9B model with 4-bit quantization"""
-
     def __init__(self):
         self.model_name = "google/gemma-2-9b-it"
         self.tokenizer = None
@@ -13,7 +11,6 @@ class LLMInterface:
         self.load_model()
 
     def load_model(self):
-        """Load 4-bit quantized Gemma 2 9B model"""
         try:
             logger.info("Loading Gemma 2 9B model with 4-bit quantization...")
 
@@ -43,7 +40,6 @@ class LLMInterface:
             self.tokenizer = None
 
     def generate_response(self, prompt: str, max_length: int = 512) -> str:
-        """Generate response from the model"""
         if self.model is None:
             # Mock response for testing when model isn't available
             return "Mock response - model not loaded"
