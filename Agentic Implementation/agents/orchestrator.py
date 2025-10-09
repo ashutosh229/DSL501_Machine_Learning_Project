@@ -1,17 +1,18 @@
-from utils.knowledge_base import KnowledgeBase
+from utils.knowledgeBase import KnowledgeBase
 from utils.llm import LLMInterface
-from agents.preprocessing_agent import DataProcessingAgent
-from agents.state_finder_agent import StateFinderAgent
-from agents.adaptive_classifier_agent import AdaptiveClassifierAgent
-from agents.maladaptive_classifier_agent import MaladaptiveClassifierAgent
-from agents.validation_agent import ValidationAgent
-from agents.refinement_agent import RefinementAgent
+from agents.preprocessor import DataProcessingAgent
+from agents.stateFinder import StateFinderAgent
+from agents.adaptiveClassifier import AdaptiveClassifierAgent
+from agents.maladaptiveClassifier import MaladaptiveClassifierAgent
+from agents.validator import ValidationAgent
+from agents.refiner import RefinementAgent
 from logger import logger
 import wandb
-from models.states import ClassificationResult
+from models.classificationResult import ClassificationResult
 from typing import Dict, Any, List
 from datetime import datetime
-from models.states import StateType, SelfState
+from models.selfState import SelfState 
+from models.stateType import StateType
 
 
 class AgenticOrchestrator:
