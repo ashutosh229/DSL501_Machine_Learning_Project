@@ -3,7 +3,7 @@ import torch
 logging.set_verbosity_error() 
 
 class LLMInterface:
-    def __init__(self, model_name: str = "google/gemma-2-9b-it", use_4bit: bool = True):
+    def __init__(self, model_name: str = "./resources/gemma-2-9b-it", use_4bit: bool = True):
         self.model_name = model_name
         self.use_4bit = use_4bit
         self.model = None
@@ -27,14 +27,18 @@ class LLMInterface:
                 quantization_config=quantization_config,
                 device_map="auto",
                 torch_dtype=torch.float16, 
+                low_cpu_mem_usage=True
             )
         except Exception as e:
             print(f"Offloading to CPU due to inefficent GPU memory")
             self.model = AutoModelForCausalLM.from_pretrained(
                 self.model_name,  
                 quantization_config=quantization_config, 
-                device_map={"":"cpu"},  
-                torch_dtype=torch.float16
+                device_map="auto",  
+                torch_dtype=torch.float16, 
+                low_cpu_mem_usage=True, 
+                llm_int8_enable_fp32_cpu_offload=True, 
+                offload_folder="./offload",
             )
             
     def generate(self, prompt: str, max_new_tokens: int = 100, temperature: float = 0.1) -> str:
