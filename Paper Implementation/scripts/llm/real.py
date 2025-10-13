@@ -1,6 +1,5 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 import torch
-import os
 import traceback
 
 class LLMInterface:
@@ -15,87 +14,76 @@ class LLMInterface:
         try:
             if not torch.cuda.is_available():
                 return 0
-            # returns (free, total) bytes for device 0
             free, total = torch.cuda.mem_get_info(0)
             return free / (1024 ** 3)
         except Exception:
             return 0
 
     def load_model(self):
-        # Prepare quantization config (only used if we decide to actually do 4-bit)
-        quantization_config = None
-        if self.use_4bit:
-            quantization_config = BitsAndBytesConfig(
-                load_in_4bit=True,
-                bnb_4bit_compute_dtype=torch.float16,
-                bnb_4bit_quant_type="nf4",
-                bnb_4bit_use_double_quant=True
-            )
-
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name, use_fast=True)
-
-        # choose strategy based on GPU presence and free VRAM
-        gpu_free_gb = self._gpu_total_free_gb()
-        print(f"Detected GPU free memory ≈ {gpu_free_gb:.2f} GB")
-
-        # Heuristic thresholds (adjust if you know your GPU)
-        need_vram_for_9b_4bit = 8.0   # approximate minimum VRAM to hold 9B model in 4-bit
-        try_gpu_4bit = self.use_4bit and (gpu_free_gb >= need_vram_for_9b_4bit)
-
-        # Try path A: GPU + 4-bit (preferred if GPU big enough)
-        if try_gpu_4bit:
-            try:
-                print("Attempting to load 4-bit model on GPU (device_map='auto')...")
-                self.model = AutoModelForCausalLM.from_pretrained(
-                    self.model_name,
-                    quantization_config=quantization_config,
-                    device_map="auto",
-                    torch_dtype=torch.float16,
-                    offload_folder=self.offload_folder,   # allows safe temporary offload to disk
-                    low_cpu_mem_usage=True,
-                )
-                print("Loaded model in 4-bit on GPU.")
-                return
-            except Exception as e:
-                print("Failed to load 4-bit on GPU (falling back).")
-                traceback.print_exc()
-
-        # Path B: No suitable GPU or GPU 4-bit failed — load on CPU WITHOUT bitsandbytes quantization
-        # NOTE: using 4-bit on CPU often triggers huge temporary allocations; avoid it.
-        print("Loading model on CPU (disabling bitsandbytes quantization to avoid CPU OOM).")
         try:
-            # Force no BitsAndBytes: set quantization_config=None and use low_cpu_mem_usage
+            self.tokenizer = AutoTokenizer.from_pretrained(self.model_name, use_fast=True)
+
+            quantization_config = None
+            if self.use_4bit:
+                quantization_config = BitsAndBytesConfig(
+                    load_in_4bit=True,
+                    bnb_4bit_compute_dtype=torch.float16,
+                    bnb_4bit_quant_type="nf4",
+                    bnb_4bit_use_double_quant=True
+                )
+
+            gpu_free_gb = self._gpu_total_free_gb()
+            print(f"Detected GPU free memory ≈ {gpu_free_gb:.2f} GB")
+
+            # Load on GPU (preferred)
+            print("🔄 Loading model on GPU (4-bit)...")
             self.model = AutoModelForCausalLM.from_pretrained(
                 self.model_name,
-                quantization_config=None,     # IMPORTANT: disable bnb quantization here
-                device_map={"": "cpu"},
-                torch_dtype=torch.float32,    # use float32 on CPU for stability (or float16 if supported)
-                low_cpu_mem_usage=True,
-                offload_folder=self.offload_folder
-            )
-            print("Loaded model on CPU (float32) successfully.")
-            return
-        except Exception as e:
-            print("CPU load failed — final fallback: try device_map='auto' with low_cpu_mem_usage and offload_folder.")
-            traceback.print_exc()
-            # final fallback attempt (may still fail if memory is too small)
-            self.model = AutoModelForCausalLM.from_pretrained(
-                self.model_name,
-                quantization_config=quantization_config if self.use_4bit else None,
+                quantization_config=quantization_config,
                 device_map="auto",
                 torch_dtype=torch.float16,
+                offload_folder=self.offload_folder,
                 low_cpu_mem_usage=True,
-                offload_folder=self.offload_folder
             )
-    
+            print("✅ Model loaded on GPU successfully!")
+
+        except Exception as e:
+            print("❌ Failed to load model on GPU. Traceback:")
+            traceback.print_exc()
+
+    def generate(self, prompt: str, max_new_tokens: int = 200, temperature: float = 0.7, top_p: float = 0.9, do_sample: bool = True):
+        if self.model is None or self.tokenizer is None:
+            raise ValueError("Model not loaded. Call load_model() first.")
+
+        inputs = self.tokenizer(prompt, return_tensors="pt").to(self.model.device)
+
+        with torch.no_grad():
+            output_ids = self.model.generate(
+                **inputs,
+                max_new_tokens=max_new_tokens,
+                temperature=temperature,
+                top_p=top_p,
+                do_sample=do_sample,
+                eos_token_id=self.tokenizer.eos_token_id
+            )
+
+        return self.tokenizer.decode(output_ids[0], skip_special_tokens=True)
+
+
+
 if __name__ == "__main__":
     llm = LLMInterface(model_name="./resources/gemma-2-9b-it", use_4bit=True)
-    print("🔄 Loading model...")
     llm.load_model()
-    print("✅ Model loaded successfully!")
+    print("Loaded the model on GPU")
 
-    # Optional: test generation
+    # Test generation
     prompt = "Explain quantum computing in simple terms."
-    print("🧠 Generating response...")
-    output = llm.generate(prompt, max_new_tokens=50)
-    print("🗨️ Response:", output)
+    print("Generating the response")
+    response = llm.generate(
+        prompt,
+        max_new_tokens=300,   # longer response
+        temperature=0.7,      # creativity
+        top_p=0.9,            # diversity
+        do_sample=True
+    )
+    print("🗨️ Response:", response)
