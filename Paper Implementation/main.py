@@ -19,7 +19,7 @@ if __name__ == "__main__":
         classifier = SelfStateClassifier(use_mock=True)
     else:
         print("\nInitializing Gemma 2 9B with 4-bit quantization...")
-        llm = LLMInterface(model_name="google/gemma-2-9b-it", use_4bit=True)
+        llm = LLMInterface(model_name="./resources/gemma-2-9b-it", use_4bit=True)
         classifier = SelfStateClassifier(llm_interface=llm)
     
     # Create sample test data (since we don't have actual CLPsych data)
