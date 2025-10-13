@@ -48,7 +48,7 @@ class LLMInterface:
         return response.strip()
     
 if __name__ == "__main__":
-    llm = LLMInterface(model_name="google/gemma-2-9b-it", use_4bit=True)
+    llm = LLMInterface(model_name="./resources/gemma-2-9b-it", use_4bit=True)
     print("🔄 Loading model...")
     llm.load_model()
     print("✅ Model loaded successfully!")
