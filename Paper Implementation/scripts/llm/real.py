@@ -34,7 +34,7 @@ class LLMInterface:
                 self.model_name,  
                 quantization_config=quantization_config, 
                 device_map={"":"cpu"},  
-                torch_dtyp=torch.float16
+                torch_dtype=torch.float16
             )
             
     def generate(self, prompt: str, max_new_tokens: int = 100, temperature: float = 0.1) -> str:
