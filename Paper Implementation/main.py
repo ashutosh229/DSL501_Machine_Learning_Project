@@ -1,6 +1,7 @@
 from scripts.selfStateClassifier import SelfStateClassifier
 from scripts.llm.real import LLMInterface
 from scripts.experimentRunner import ExperimentRunner
+from scripts.dataLoader import DataLoader
 import json
 from models.redditPost import Post
 
@@ -22,29 +23,13 @@ if __name__ == "__main__":
         classifier = SelfStateClassifier(llm_interface=llm)
     
     # Create sample test data (since we don't have actual CLPsych data)
-    print("\nCreating sample test data...")
-    sample_posts = [
-        Post(
-            post_id="post_1",
-            text="I've been feeling really hopeless lately. Everything seems pointless. But I did reach out to my therapist and we made a plan for next week. I'm going to try some new coping strategies.",
-            adaptive_evidence=["I did reach out to my therapist and we made a plan for next week", "I'm going to try some new coping strategies"],
-            maladaptive_evidence=["I've been feeling really hopeless lately", "Everything seems pointless"]
-        ),
-        Post(
-            post_id="post_2",
-            text="I can't do anything right. I'm such a failure. My friends tried to help me but I just pushed them away. I hate myself for that.",
-            adaptive_evidence=[],
-            maladaptive_evidence=["I can't do anything right", "I'm such a failure", "I hate myself for that"]
-        ),
-        Post(
-            post_id="post_3",
-            text="Today was tough but I made it through. I went for a walk which helped clear my head. I'm learning to be more patient with myself.",
-            adaptive_evidence=["I went for a walk which helped clear my head", "I'm learning to be more patient with myself"],
-            maladaptive_evidence=[]
-        )
-    ]
+    print("\nLoading the data...")
+    timelines = DataLoader.load_all_timelines("data")
+    all_posts = []
+    for timeline in timelines:
+        all_posts.extend(timeline.posts)
     
-    print(f"Created {len(sample_posts)} sample posts")
+    print("Loaded the posts across all the timelines")
     
     # Run experiments
     print("\n" + "="*60)
@@ -55,17 +40,17 @@ if __name__ == "__main__":
     
     # Test individual methods
     print("\nTesting Baseline method...")
-    baseline_results = runner.run_method("baseline", sample_posts)
+    baseline_results = runner.run_method("baseline", all_posts)
     
     print("\nTesting Baseline + Context method...")
-    context_results = runner.run_method("baseline_context", sample_posts)
+    context_results = runner.run_method("baseline_context", all_posts)
     
     # Compare all methods
     print("\n" + "="*60)
     print("Comparing All Methods")
     print("="*60)
     
-    all_results = runner.compare_methods(sample_posts)
+    all_results = runner.compare_methods(all_posts)
     runner.print_results_table(all_results)
     
     # Save results
