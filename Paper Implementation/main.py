@@ -1,4 +1,4 @@
-from scripts.selfstateClassifier import SelfStateClassifier
+from scripts.selfStateClassifier import SelfStateClassifier
 from scripts.llm.real import LLMInterface
 from scripts.experimentRunner import ExperimentRunner
 import json

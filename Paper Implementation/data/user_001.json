@@ -1,0 +1,105 @@
+{
+  "summary": "Timeline summary for user_1",
+  "posts": [
+    {
+      "post_id": "post_1",
+      "text": "Post 1: Today I felt motivated. I did some productive work and went for a walk.",
+      "adaptive_evidence": [
+        "I felt motivated today and took positive actions."
+      ],
+      "maladaptive_evidence": [],
+      "summary": "A short summary of post 1",
+      "wellbeing_score": 1.0
+    },
+    {
+      "post_id": "post_2",
+      "text": "Post 2: Today I felt bad. I had a hard time getting out of bed and felt overwhelmed.",
+      "adaptive_evidence": [],
+      "maladaptive_evidence": [
+        "I felt bad and struggled with daily tasks."
+      ],
+      "summary": "A short summary of post 2",
+      "wellbeing_score": 0.0
+    },
+    {
+      "post_id": "post_3",
+      "text": "Post 3: Today I felt motivated. I did some productive work and went for a walk.",
+      "adaptive_evidence": [
+        "I felt motivated today and took positive actions."
+      ],
+      "maladaptive_evidence": [],
+      "summary": "A short summary of post 3",
+      "wellbeing_score": 1.0
+    },
+    {
+      "post_id": "post_4",
+      "text": "Post 4: Today I felt motivated. I did some productive work and went for a walk.",
+      "adaptive_evidence": [
+        "I felt motivated today and took positive actions."
+      ],
+      "maladaptive_evidence": [],
+      "summary": "A short summary of post 4",
+      "wellbeing_score": 1.0
+    },
+    {
+      "post_id": "post_5",
+      "text": "Post 5: Today I felt bad. I had a hard time getting out of bed and felt overwhelmed.",
+      "adaptive_evidence": [],
+      "maladaptive_evidence": [
+        "I felt bad and struggled with daily tasks."
+      ],
+      "summary": "A short summary of post 5",
+      "wellbeing_score": 0.0
+    },
+    {
+      "post_id": "post_6",
+      "text": "Post 6: Today I felt anxious. I had a hard time getting out of bed and felt overwhelmed.",
+      "adaptive_evidence": [],
+      "maladaptive_evidence": [
+        "I felt anxious and struggled with daily tasks."
+      ],
+      "summary": "A short summary of post 6",
+      "wellbeing_score": 0.0
+    },
+    {
+      "post_id": "post_7",
+      "text": "Post 7: Today I felt anxious. I had a hard time getting out of bed and felt overwhelmed.",
+      "adaptive_evidence": [],
+      "maladaptive_evidence": [
+        "I felt anxious and struggled with daily tasks."
+      ],
+      "summary": "A short summary of post 7",
+      "wellbeing_score": 0.0
+    },
+    {
+      "post_id": "post_8",
+      "text": "Post 8: Today I felt bad. I had a hard time getting out of bed and felt overwhelmed.",
+      "adaptive_evidence": [],
+      "maladaptive_evidence": [
+        "I felt bad and struggled with daily tasks."
+      ],
+      "summary": "A short summary of post 8",
+      "wellbeing_score": 0.0
+    },
+    {
+      "post_id": "post_9",
+      "text": "Post 9: Today I felt sad. I had a hard time getting out of bed and felt overwhelmed.",
+      "adaptive_evidence": [],
+      "maladaptive_evidence": [
+        "I felt sad and struggled with daily tasks."
+      ],
+      "summary": "A short summary of post 9",
+      "wellbeing_score": 0.0
+    },
+    {
+      "post_id": "post_10",
+      "text": "Post 10: Today I felt anxious. I had a hard time getting out of bed and felt overwhelmed.",
+      "adaptive_evidence": [],
+      "maladaptive_evidence": [
+        "I felt anxious and struggled with daily tasks."
+      ],
+      "summary": "A short summary of post 10",
+      "wellbeing_score": 0.0
+    }
+  ]
+}
