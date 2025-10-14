@@ -1,0 +1,172 @@
+{
+  "summary": "Timeline_10 follows a journey through PTSD treatment with increasing use of coping strategies.",
+  "posts": [
+    {
+      "post_id": "timeline_10_post_1",
+      "text": "Side effects are awful. I deserve to suffer I can't see a future for myself Sticking with it because my doctor said it takes time. used my DBT skills Noticing small improvements in my mood. I deserve to get better",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I deserve to suffer",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_10_post_2",
+      "text": "Thought I was getting better but I'm not. I'm broken beyond repair Back to square one. I pushed everyone away Reminded myself that recovery isn't linear. reached out to my therapist Reaching out for support instead of giving up. I'm not giving up",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I pushed everyone away"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.44
+    },
+    {
+      "post_id": "timeline_10_post_3",
+      "text": "The constant worry is exhausting. I feel completely hopeless I can't focus on anything. I'm spiraling out of control My therapist recommended meditation so I reached out to my therapist and Taking it one day at a time",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "Taking it one day at a time"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.44
+    },
+    {
+      "post_id": "timeline_10_post_4",
+      "text": "The depression is getting worse. I hate myself so much I stopped taking my medication I know I need help so I talked to a friend about what I'm going through My therapist suggested I'm worth the effort",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.53
+    },
+    {
+      "post_id": "timeline_10_post_5",
+      "text": "Starting to see the light at the end of the tunnel. joined a support group Therapy is really helping. I'm committed to my recovery Still have rough days. I'm a burden to everyone But they're getting less frequent. I don't care about anything anymore",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_10_post_6",
+      "text": "Three weeks without self-harming. did some self-care activities So proud of myself. Recovery is a journey, not a destination Almost slipped up. I'm broken beyond repair But I reached out for help instead. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.72
+    },
+    {
+      "post_id": "timeline_10_post_7",
+      "text": "I feel so alone. I want to give up on everything Nobody understands what I'm going through. I'm completely numb Decided to join a support group. reached out to my therapist Met some people who actually get it. I acknowledge my progress",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.46
+    },
+    {
+      "post_id": "timeline_10_post_8",
+      "text": "Side effects are awful. I'm broken beyond repair I stopped taking my medication Sticking with it because my doctor said it takes time. called the crisis hotline Noticing small improvements in my mood. I'm building a support system",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.54
+    },
+    {
+      "post_id": "timeline_10_post_9",
+      "text": "I relapsed again last night. I'm broken beyond repair I hate myself for it. I'm spiraling out of control Called my therapist this morning joined a support group and we talked through it. I'm being patient with myself",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.54
+    },
+    {
+      "post_id": "timeline_10_post_10",
+      "text": "The constant worry is exhausting. I deserve to suffer I can't focus on anything. I've been having suicidal thoughts My therapist recommended meditation so I practiced my coping strategies and Things can get better",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I deserve to suffer",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_10_post_11",
+      "text": "Work is overwhelming me. I feel empty inside I'm on the verge of a breakdown. I gave up trying Talked to my manager about reducing my workload. practiced my coping strategies Taking a mental health day tomorrow. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_10_post_12",
+      "text": "Thought I was getting better but I'm not. Everyone would be better off without me Back to square one. I can't get out of bed anymore Reminded myself that recovery isn't linear. wrote in my journal Reaching out for support instead of giving up. I acknowledge my progress",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    }
+  ]
+}

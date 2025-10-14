@@ -1,0 +1,200 @@
+{
+  "summary": "User timeline_16 documents a journey through depression and anxiety, showing gradual progress with therapy and medication.",
+  "posts": [
+    {
+      "post_id": "timeline_16_post_1",
+      "text": "Starting to see the light at the end of the tunnel. wrote in my journal Therapy is really helping. I acknowledge my progress Still have rough days. I'm worthless and pathetic But they're getting less frequent. I gave up trying",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.46
+    },
+    {
+      "post_id": "timeline_16_post_2",
+      "text": "I feel like such a failure. I want to give up on everything Can't stop thinking about hurting myself. I'm failing at everything But I remembered my safety plan called the crisis hotline and texted my sponsor. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything",
+        "I'm failing at everything"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.53
+    },
+    {
+      "post_id": "timeline_16_post_3",
+      "text": "I feel anxious all the time. I hate myself so much I don't care about anything anymore Started using the coping strategies from therapy. joined a support group I'm trying to be patient with myself. I acknowledge my progress",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.41
+    },
+    {
+      "post_id": "timeline_16_post_4",
+      "text": "Work is overwhelming me. Nothing will ever get better I'm on the verge of a breakdown. I can't get out of bed anymore Talked to my manager about reducing my workload. practiced my coping strategies Taking a mental health day tomorrow. Small steps are still progress",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_16_post_5",
+      "text": "Everything feels impossible. I'm tired of existing I'm worthless. I gave up trying Did one small thing today - made my bed. set healthy boundaries Trying to celebrate tiny victories. I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_16_post_6",
+      "text": "The constant worry is exhausting. I'm disgusting I can't focus on anything. I'm failing at everything My therapist recommended meditation so I reached out for help and I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I'm failing at everything"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.45
+    },
+    {
+      "post_id": "timeline_16_post_7",
+      "text": "Starting to see the light at the end of the tunnel. wrote in my journal Therapy is really helping. I deserve to get better Still have rough days. I'm worthless and pathetic But they're getting less frequent. I hurt myself again",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I hurt myself again"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_16_post_8",
+      "text": "Everything feels hopeless lately. Life is meaningless I can barely get myself out of bed most days. I've been drinking to cope Today though, I managed to wrote in my journal which is a small victory.",
+      "adaptive_evidence": [
+        "wrote in my journal"
+      ],
+      "maladaptive_evidence": [
+        "Life is meaningless",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post primarily shows distress with some coping attempts",
+      "wellbeing_score": 0.34
+    },
+    {
+      "post_id": "timeline_16_post_9",
+      "text": "I feel anxious all the time. I can't do anything right I'm completely numb Started using the coping strategies from therapy. joined a support group I'm trying to be patient with myself. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    },
+    {
+      "post_id": "timeline_16_post_10",
+      "text": "I push everyone away when I'm depressed. I'm disgusting I've been drinking to cope Trying to communicate better with my partner. started going to therapy I apologized and explained what I'm going through. Small steps are still progress",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_16_post_11",
+      "text": "My anxiety has been through the roof. Everyone would be better off without me I had a panic attack at work yesterday. I'm completely numb But I've been practicing the breathing exercises practiced my coping strategies and it's starting to help. I'm building a support system",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.46
+    },
+    {
+      "post_id": "timeline_16_post_12",
+      "text": "My partner and I have been fighting constantly. I'm disgusting I feel like I'm ruining everything. I gave up trying We decided to try couples therapy. used my DBT skills Had our first session and it went better than expected. I deserve to get better",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.4
+    },
+    {
+      "post_id": "timeline_16_post_13",
+      "text": "The depression is getting worse. I'm broken beyond repair I hurt myself again I know I need help so I asked for support My therapist suggested I acknowledge my progress",
+      "adaptive_evidence": [
+        "asked for support",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I hurt myself again"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.58
+    },
+    {
+      "post_id": "timeline_16_post_14",
+      "text": "I feel like such a failure. I deserve to suffer Can't stop thinking about hurting myself. I can't get out of bed anymore But I remembered my safety plan started going to therapy and texted my sponsor. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I deserve to suffer",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.44
+    }
+  ]
+}

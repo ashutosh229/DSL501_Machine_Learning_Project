@@ -1,0 +1,171 @@
+{
+  "summary": "User timeline_17 describes dealing with social anxiety and isolation, with increasing engagement in treatment.",
+  "posts": [
+    {
+      "post_id": "timeline_17_post_1",
+      "text": "The constant worry is exhausting. I have no reason to keep going I can't focus on anything. I've been having suicidal thoughts My therapist recommended meditation so I joined a support group and I'm committed to my recovery",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_17_post_2",
+      "text": "Feeling hopeful for the first time in months. talked to a friend about what I'm going through Recovery is a journey, not a destination Had a bad moment yesterday. I'm broken beyond repair But I worked through it using my tools. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.75
+    },
+    {
+      "post_id": "timeline_17_post_3",
+      "text": "I'm going to get fired, I know it. Everyone would be better off without me My performance has been terrible. I haven't showered in a week Met with HR about accommodations. started going to therapy They're being supportive. I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I haven't showered in a week"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_17_post_4",
+      "text": "I'm going to get fired, I know it. I feel empty inside My performance has been terrible. I'm losing my mind Met with HR about accommodations. joined a support group They're being supportive. I'm being patient with myself",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I'm losing my mind"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_17_post_5",
+      "text": "Had a really bad day after weeks of progress. I'm broken beyond repair I can't see a future for myself Using my coping skills instead of old habits. practiced my coping strategies This setback doesn't erase my progress. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.42
+    },
+    {
+      "post_id": "timeline_17_post_6",
+      "text": "My anxiety has been through the roof. I deserve to suffer I had a panic attack at work yesterday. I stopped taking my medication But I've been practicing the breathing exercises asked for support and it's starting to help. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "asked for support",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I deserve to suffer",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.54
+    },
+    {
+      "post_id": "timeline_17_post_7",
+      "text": "Thinking about stopping my meds. I can't do anything right I isolated myself from all my friends Called my psychiatrist first. set healthy boundaries We're trying a different medication instead. Small steps are still progress",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.4
+    },
+    {
+      "post_id": "timeline_17_post_8",
+      "text": "Can't even do basic tasks today. I'm a burden to everyone I can't get out of bed anymore Managed to shower and eat breakfast. wrote in my journal Small steps are still steps forward. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.53
+    },
+    {
+      "post_id": "timeline_17_post_9",
+      "text": "Feeling hopeful for the first time in months. wrote in my journal I'm not giving up Had a bad moment yesterday. I'm disgusting But I worked through it using my tools. I'm not giving up",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.59
+    },
+    {
+      "post_id": "timeline_17_post_10",
+      "text": "The urges to self-harm are strong. I feel completely hopeless I'm completely numb Using the distraction techniques I learned. tried a new coping mechanism Reached out to my crisis support instead. Things can get better",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_17_post_11",
+      "text": "Starting to see the light at the end of the tunnel. wrote in my journal Therapy is really helping. I'm being patient with myself Still have rough days. I have no reason to keep going But they're getting less frequent. I isolated myself from all my friends",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_17_post_12",
+      "text": "Feel like I don't deserve to be loved. Everyone would be better off without me I isolated myself from all my friends My partner has been incredibly supportive. talked to a friend about what I'm going through Learning to accept help and love. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    }
+  ]
+}

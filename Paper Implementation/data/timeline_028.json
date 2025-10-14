@@ -1,0 +1,156 @@
+{
+  "summary": "User timeline_28 describes dealing with social anxiety and isolation, with increasing engagement in treatment.",
+  "posts": [
+    {
+      "post_id": "timeline_28_post_1",
+      "text": "Thinking about stopping my meds. Life is meaningless I can't see a future for myself Called my psychiatrist first. reached out to my therapist We're trying a different medication instead. I'm being patient with myself",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "Life is meaningless",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.42
+    },
+    {
+      "post_id": "timeline_28_post_2",
+      "text": "I feel so alone. I hate myself so much Nobody understands what I'm going through. I haven't showered in a week Decided to join a support group. practiced my coping strategies Met some people who actually get it. I acknowledge my progress",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I haven't showered in a week"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.54
+    },
+    {
+      "post_id": "timeline_28_post_3",
+      "text": "I'm going to get fired, I know it. Life is meaningless My performance has been terrible. I've been drinking to cope Met with HR about accommodations. asked for support They're being supportive. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "asked for support",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "Life is meaningless",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.45
+    },
+    {
+      "post_id": "timeline_28_post_4",
+      "text": "Everything feels impossible. I hate myself so much I'm worthless. I gave up trying Did one small thing today - made my bed. joined a support group Trying to celebrate tiny victories. I'm building a support system",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_28_post_5",
+      "text": "Another day of feeling terrible. I hate myself so much I'm completely numb Went outside for 10 minutes. reached out for help Called a friend. I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_28_post_6",
+      "text": "Three weeks without self-harming. reached out for help So proud of myself. I'm not giving up Almost slipped up. Life is meaningless But I reached out for help instead. I'm not giving up",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "Life is meaningless"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.74
+    },
+    {
+      "post_id": "timeline_28_post_7",
+      "text": "Starting to see the light at the end of the tunnel. reached out to my therapist Therapy is really helping. Recovery is a journey, not a destination Still have rough days. I'm disgusting But they're getting less frequent. I can't see a future for myself",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.41
+    },
+    {
+      "post_id": "timeline_28_post_8",
+      "text": "Feeling hopeful for the first time in months. started going to therapy I'm committed to my recovery Had a bad moment yesterday. I have no reason to keep going But I worked through it using my tools. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.68
+    },
+    {
+      "post_id": "timeline_28_post_9",
+      "text": "Three weeks without self-harming. went for a walk to clear my head So proud of myself. I acknowledge my progress Almost slipped up. I feel completely hopeless But I reached out for help instead. I acknowledge my progress",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.69
+    },
+    {
+      "post_id": "timeline_28_post_10",
+      "text": "Feel like I don't deserve to be loved. Nothing will ever get better I hurt myself again My partner has been incredibly supportive. started going to therapy Learning to accept help and love. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I hurt myself again"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_28_post_11",
+      "text": "Side effects are awful. I'm a burden to everyone I isolated myself from all my friends Sticking with it because my doctor said it takes time. did some self-care activities Noticing small improvements in my mood. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    }
+  ]
+}

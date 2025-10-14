@@ -1,0 +1,9 @@
+{
+  "total_timelines": 30,
+  "total_posts": 372,
+  "total_adaptive_spans": 732,
+  "total_maladaptive_spans": 711,
+  "avg_adaptive_per_post": 1.967741935483871,
+  "avg_maladaptive_per_post": 1.9112903225806452,
+  "avg_wellbeing_score": 0.5115322580645161
+}

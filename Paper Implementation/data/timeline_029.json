@@ -1,0 +1,185 @@
+{
+  "summary": "Timeline_29 documents managing panic disorder and agoraphobia with professional help.",
+  "posts": [
+    {
+      "post_id": "timeline_29_post_1",
+      "text": "Thought I was getting better but I'm not. I can't do anything right Back to square one. I'm completely numb Reminded myself that recovery isn't linear. talked to a friend about what I'm going through Reaching out for support instead of giving up. I'm not giving up",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_29_post_2",
+      "text": "I'm going to get fired, I know it. I'm disgusting My performance has been terrible. I can't get out of bed anymore Met with HR about accommodations. used my DBT skills They're being supportive. I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.55
+    },
+    {
+      "post_id": "timeline_29_post_3",
+      "text": "Another day of feeling terrible. I want to give up on everything I can't get out of bed anymore Went outside for 10 minutes. started going to therapy Called a friend. I'm worth the effort",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.42
+    },
+    {
+      "post_id": "timeline_29_post_4",
+      "text": "Thought I was getting better but I'm not. I hate myself so much Back to square one. I isolated myself from all my friends Reminded myself that recovery isn't linear. reached out to my therapist Reaching out for support instead of giving up. I deserve to get better",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    },
+    {
+      "post_id": "timeline_29_post_5",
+      "text": "Feeling hopeful for the first time in months. asked for support I acknowledge my progress Had a bad moment yesterday. I'm worthless and pathetic But I worked through it using my tools. I acknowledge my progress",
+      "adaptive_evidence": [
+        "asked for support",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.6
+    },
+    {
+      "post_id": "timeline_29_post_6",
+      "text": "I'm going to get fired, I know it. I'm broken beyond repair My performance has been terrible. I can't get out of bed anymore Met with HR about accommodations. started going to therapy They're being supportive. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_29_post_7",
+      "text": "Everything feels impossible. I'm a burden to everyone I'm worthless. I'm losing my mind Did one small thing today - made my bed. joined a support group Trying to celebrate tiny victories. I'm worth the effort",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I'm losing my mind"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.4
+    },
+    {
+      "post_id": "timeline_29_post_8",
+      "text": "Thinking about stopping my meds. I'm a burden to everyone I stopped taking my medication Called my psychiatrist first. started going to therapy We're trying a different medication instead. I'm building a support system",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_29_post_9",
+      "text": "Everything feels hopeless lately. I'm a burden to everyone I can barely get myself out of bed most days. I'm completely numb Today though, I managed to tried a new coping mechanism which is a small victory.",
+      "adaptive_evidence": [
+        "tried a new coping mechanism"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I'm completely numb"
+      ],
+      "summary": "Post primarily shows distress with some coping attempts",
+      "wellbeing_score": 0.4
+    },
+    {
+      "post_id": "timeline_29_post_10",
+      "text": "Had a really bad day after weeks of progress. I feel empty inside I've been having suicidal thoughts Using my coping skills instead of old habits. asked for support This setback doesn't erase my progress. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "asked for support",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_29_post_11",
+      "text": "Feel like I don't deserve to be loved. I can't do anything right I'm spiraling out of control My partner has been incredibly supportive. used my DBT skills Learning to accept help and love. I'm not giving up",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.41
+    },
+    {
+      "post_id": "timeline_29_post_12",
+      "text": "The depression is getting worse. I feel empty inside I stopped taking my medication I know I need help so I practiced my coping strategies My therapist suggested Things can get better",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.46
+    },
+    {
+      "post_id": "timeline_29_post_13",
+      "text": "Thinking about stopping my meds. I'm a burden to everyone I'm spiraling out of control Called my psychiatrist first. took my medication as prescribed We're trying a different medication instead. I deserve to get better",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    }
+  ]
+}

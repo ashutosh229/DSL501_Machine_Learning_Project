@@ -1,0 +1,144 @@
+{
+  "summary": "User timeline_14 chronicles struggles with OCD and anxiety, showing gradual improvement with therapy.",
+  "posts": [
+    {
+      "post_id": "timeline_14_post_1",
+      "text": "Can't even do basic tasks today. I have no reason to keep going I can't see a future for myself Managed to shower and eat breakfast. took my medication as prescribed Small steps are still steps forward. I'm worth the effort",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.48
+    },
+    {
+      "post_id": "timeline_14_post_2",
+      "text": "I feel like such a failure. I can't do anything right Can't stop thinking about hurting myself. I'm completely numb But I remembered my safety plan set healthy boundaries and texted my sponsor. I'm worth the effort",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.53
+    },
+    {
+      "post_id": "timeline_14_post_3",
+      "text": "I've been struggling with depression for weeks now. Nothing will ever get better I pushed everyone away But yesterday I finally talked to a friend about what I'm going through and scheduled an appointment. I acknowledge my progress",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I pushed everyone away"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.46
+    },
+    {
+      "post_id": "timeline_14_post_4",
+      "text": "Thought I was getting better but I'm not. I feel completely hopeless Back to square one. I gave up trying Reminded myself that recovery isn't linear. reached out for help Reaching out for support instead of giving up. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.45
+    },
+    {
+      "post_id": "timeline_14_post_5",
+      "text": "I feel so alone. I feel empty inside Nobody understands what I'm going through. I've been having suicidal thoughts Decided to join a support group. took my medication as prescribed Met some people who actually get it. Small steps are still progress",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.42
+    },
+    {
+      "post_id": "timeline_14_post_6",
+      "text": "I feel anxious all the time. I want to give up on everything I gave up trying Started using the coping strategies from therapy. asked for support I'm trying to be patient with myself. I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "asked for support",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.5
+    },
+    {
+      "post_id": "timeline_14_post_7",
+      "text": "Feel like I don't deserve to be loved. I'm broken beyond repair I've been drinking to cope My partner has been incredibly supportive. used my DBT skills Learning to accept help and love. I'm being patient with myself",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.5
+    },
+    {
+      "post_id": "timeline_14_post_8",
+      "text": "Thought I was getting better but I'm not. I'm a burden to everyone Back to square one. I pushed everyone away Reminded myself that recovery isn't linear. talked to a friend about what I'm going through Reaching out for support instead of giving up. Small steps are still progress",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I pushed everyone away"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.44
+    },
+    {
+      "post_id": "timeline_14_post_9",
+      "text": "Three weeks without self-harming. tried a new coping mechanism So proud of myself. I'm proud of myself for trying Almost slipped up. I'm broken beyond repair But I reached out for help instead. I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.74
+    },
+    {
+      "post_id": "timeline_14_post_10",
+      "text": "I push everyone away when I'm depressed. I can't do anything right I'm losing my mind Trying to communicate better with my partner. set healthy boundaries I apologized and explained what I'm going through. Things can get better",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I'm losing my mind"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.45
+    }
+  ]
+}

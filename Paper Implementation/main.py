@@ -28,6 +28,8 @@ if __name__ == "__main__":
     all_posts = []
     for timeline in timelines:
         all_posts.extend(timeline.posts)
+
+    all_posts = all_posts[:10]
     
     print("Loaded the posts across all the timelines")
     
@@ -41,10 +43,12 @@ if __name__ == "__main__":
     # Test individual methods
     print("\nTesting Baseline method...")
     baseline_results = runner.run_method("baseline", all_posts)
-    
+    print(baseline_results)
+
     print("\nTesting Baseline + Context method...")
     context_results = runner.run_method("baseline_context", all_posts)
-    
+    print(context_results)
+
     # Compare all methods
     print("\n" + "="*60)
     print("Comparing All Methods")

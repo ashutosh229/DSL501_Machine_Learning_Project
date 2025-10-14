@@ -1,0 +1,197 @@
+{
+  "summary": "Timeline_30 chronicles struggles with self-harm and the path to recovery through support groups and therapy.",
+  "posts": [
+    {
+      "post_id": "timeline_30_post_1",
+      "text": "I've been isolating myself from everyone. Everyone would be better off without me I can't get out of bed anymore But today I reached out to an old friend set healthy boundaries and we made plans to meet up. I'm not giving up",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_30_post_2",
+      "text": "Work is overwhelming me. I'm worthless and pathetic I'm on the verge of a breakdown. I'm completely numb Talked to my manager about reducing my workload. took my medication as prescribed Taking a mental health day tomorrow. Small steps are still progress",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.5
+    },
+    {
+      "post_id": "timeline_30_post_3",
+      "text": "I've been struggling with depression for weeks now. I hate myself so much I don't care about anything anymore But yesterday I finally practiced my coping strategies and scheduled an appointment. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_30_post_4",
+      "text": "Thought I was getting better but I'm not. I'm tired of existing Back to square one. I'm losing my mind Reminded myself that recovery isn't linear. took my medication as prescribed Reaching out for support instead of giving up. I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I'm losing my mind"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_30_post_5",
+      "text": "Feeling hopeful for the first time in months. used my DBT skills I'm building a support system Had a bad moment yesterday. I hate myself so much But I worked through it using my tools. I'm building a support system",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.71
+    },
+    {
+      "post_id": "timeline_30_post_6",
+      "text": "Feel like I don't deserve to be loved. I can't do anything right I pushed everyone away My partner has been incredibly supportive. asked for support Learning to accept help and love. Things can get better",
+      "adaptive_evidence": [
+        "asked for support",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I pushed everyone away"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_30_post_7",
+      "text": "Feeling hopeful for the first time in months. asked for support I'm learning to be kinder to myself Had a bad moment yesterday. I'm a burden to everyone But I worked through it using my tools. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "asked for support",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.64
+    },
+    {
+      "post_id": "timeline_30_post_8",
+      "text": "I feel anxious all the time. I'm tired of existing I've been drinking to cope Started using the coping strategies from therapy. set healthy boundaries I'm trying to be patient with myself. I acknowledge my progress",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.55
+    },
+    {
+      "post_id": "timeline_30_post_9",
+      "text": "The depression is getting worse. I'm a burden to everyone I've been drinking to cope I know I need help so I wrote in my journal My therapist suggested I'm committed to my recovery",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    },
+    {
+      "post_id": "timeline_30_post_10",
+      "text": "Three weeks without self-harming. did some self-care activities So proud of myself. I'm learning to be kinder to myself Almost slipped up. I'm worthless and pathetic But I reached out for help instead. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.68
+    },
+    {
+      "post_id": "timeline_30_post_11",
+      "text": "Haven't left my apartment in days. I have no reason to keep going I don't care about anything anymore Forced myself to go for a walk today reached out for help and called my sister. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_30_post_12",
+      "text": "Haven't left my apartment in days. I'm worthless and pathetic I've been having suicidal thoughts Forced myself to go for a walk today reached out for help and called my sister. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.42
+    },
+    {
+      "post_id": "timeline_30_post_13",
+      "text": "Everything feels hopeless lately. I can't do anything right I can barely get myself out of bed most days. I'm failing at everything Today though, I managed to talked to a friend about what I'm going through which is a small victory.",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I'm failing at everything"
+      ],
+      "summary": "Post primarily shows distress with some coping attempts",
+      "wellbeing_score": 0.32
+    },
+    {
+      "post_id": "timeline_30_post_14",
+      "text": "The urges to self-harm are strong. I feel empty inside I'm spiraling out of control Using the distraction techniques I learned. reached out for help Reached out to my crisis support instead. I acknowledge my progress",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    }
+  ]
+}

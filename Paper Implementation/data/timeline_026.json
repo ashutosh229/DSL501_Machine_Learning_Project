@@ -1,0 +1,172 @@
+{
+  "summary": "User timeline_26 chronicles struggles with OCD and anxiety, showing gradual improvement with therapy.",
+  "posts": [
+    {
+      "post_id": "timeline_26_post_1",
+      "text": "Thinking about stopping my meds. I'm a burden to everyone I'm losing my mind Called my psychiatrist first. used my DBT skills We're trying a different medication instead. I'm not giving up",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I'm losing my mind"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    },
+    {
+      "post_id": "timeline_26_post_2",
+      "text": "Feel like I'll never get better. I'm a burden to everyone All this therapy for nothing. I can't get out of bed anymore My therapist reminded me how far I've come. tried a new coping mechanism Looking at my progress journal from six months ago. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.5
+    },
+    {
+      "post_id": "timeline_26_post_3",
+      "text": "The constant worry is exhausting. Everyone would be better off without me I can't focus on anything. I isolated myself from all my friends My therapist recommended meditation so I used my DBT skills and I'm building a support system",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.6
+    },
+    {
+      "post_id": "timeline_26_post_4",
+      "text": "Haven't left my apartment in days. Nothing will ever get better I can't get out of bed anymore Forced myself to go for a walk today called the crisis hotline and called my sister. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_26_post_5",
+      "text": "I push everyone away when I'm depressed. I'm a burden to everyone I'm completely numb Trying to communicate better with my partner. did some self-care activities I apologized and explained what I'm going through. Small steps are still progress",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_26_post_6",
+      "text": "Had a really bad day after weeks of progress. I'm a burden to everyone I've been having suicidal thoughts Using my coping skills instead of old habits. did some self-care activities This setback doesn't erase my progress. I'm being patient with myself",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.58
+    },
+    {
+      "post_id": "timeline_26_post_7",
+      "text": "Feeling hopeful for the first time in months. wrote in my journal I'm committed to my recovery Had a bad moment yesterday. Nothing will ever get better But I worked through it using my tools. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.76
+    },
+    {
+      "post_id": "timeline_26_post_8",
+      "text": "The constant worry is exhausting. I have no reason to keep going I can't focus on anything. I'm failing at everything My therapist recommended meditation so I practiced my coping strategies and Things can get better",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I'm failing at everything"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_26_post_9",
+      "text": "I've been isolating myself from everyone. I hate myself so much I can't see a future for myself But today I reached out to an old friend reached out for help and we made plans to meet up. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_26_post_10",
+      "text": "I've been struggling with depression for weeks now. I want to give up on everything I stopped taking my medication But yesterday I finally set healthy boundaries and scheduled an appointment. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_26_post_11",
+      "text": "Thinking about stopping my meds. I feel completely hopeless I'm completely numb Called my psychiatrist first. talked to a friend about what I'm going through We're trying a different medication instead. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_26_post_12",
+      "text": "Can't handle the pressure anymore. I'm a burden to everyone I'm spiraling out of control Started setting better boundaries at work. called the crisis hotline Learned to say no to extra projects. I'm building a support system",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    }
+  ]
+}

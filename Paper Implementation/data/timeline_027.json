@@ -1,0 +1,173 @@
+{
+  "summary": "User timeline_27 chronicles struggles with OCD and anxiety, showing gradual improvement with therapy.",
+  "posts": [
+    {
+      "post_id": "timeline_27_post_1",
+      "text": "I'm going to get fired, I know it. Nothing will ever get better My performance has been terrible. I stopped taking my medication Met with HR about accommodations. called the crisis hotline They're being supportive. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.55
+    },
+    {
+      "post_id": "timeline_27_post_2",
+      "text": "Feel like I'll never get better. Everyone would be better off without me All this therapy for nothing. I'm losing my mind My therapist reminded me how far I've come. took my medication as prescribed Looking at my progress journal from six months ago. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I'm losing my mind"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.45
+    },
+    {
+      "post_id": "timeline_27_post_3",
+      "text": "Feel like I don't deserve to be loved. I'm a burden to everyone I stopped taking my medication My partner has been incredibly supportive. reached out for help Learning to accept help and love. I deserve to get better",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.54
+    },
+    {
+      "post_id": "timeline_27_post_4",
+      "text": "Thought I was getting better but I'm not. I want to give up on everything Back to square one. I haven't showered in a week Reminded myself that recovery isn't linear. asked for support Reaching out for support instead of giving up. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "asked for support",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything",
+        "I haven't showered in a week"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_27_post_5",
+      "text": "Thought I was getting better but I'm not. I deserve to suffer Back to square one. I gave up trying Reminded myself that recovery isn't linear. asked for support Reaching out for support instead of giving up. I'm not giving up",
+      "adaptive_evidence": [
+        "asked for support",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I deserve to suffer",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.53
+    },
+    {
+      "post_id": "timeline_27_post_6",
+      "text": "The constant worry is exhausting. I feel empty inside I can't focus on anything. I've been drinking to cope My therapist recommended meditation so I tried a new coping mechanism and I deserve to get better",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_27_post_7",
+      "text": "I feel so alone. I feel empty inside Nobody understands what I'm going through. I stopped taking my medication Decided to join a support group. called the crisis hotline Met some people who actually get it. Taking it one day at a time",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "Taking it one day at a time"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_27_post_8",
+      "text": "The urges to self-harm are strong. I feel completely hopeless I can't get out of bed anymore Using the distraction techniques I learned. took my medication as prescribed Reached out to my crisis support instead. I'm building a support system",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_27_post_9",
+      "text": "Can't even do basic tasks today. I'm tired of existing I'm losing my mind Managed to shower and eat breakfast. called the crisis hotline Small steps are still steps forward. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I'm losing my mind"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.46
+    },
+    {
+      "post_id": "timeline_27_post_10",
+      "text": "Feel like I'll never get better. Everyone would be better off without me All this therapy for nothing. I'm spiraling out of control My therapist reminded me how far I've come. used my DBT skills Looking at my progress journal from six months ago. I'm being patient with myself",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_27_post_11",
+      "text": "I feel so alone. I have no reason to keep going Nobody understands what I'm going through. I isolated myself from all my friends Decided to join a support group. went for a walk to clear my head Met some people who actually get it. I'm worth the effort",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.54
+    },
+    {
+      "post_id": "timeline_27_post_12",
+      "text": "Work is overwhelming me. Life is meaningless I'm on the verge of a breakdown. I can't see a future for myself Talked to my manager about reducing my workload. set healthy boundaries Taking a mental health day tomorrow. Things can get better",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "Life is meaningless",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.53
+    }
+  ]
+}

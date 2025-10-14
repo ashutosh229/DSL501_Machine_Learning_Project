@@ -1,0 +1,144 @@
+{
+  "summary": "Timeline_4 shows someone managing bipolar disorder with medication adjustments and therapeutic support.",
+  "posts": [
+    {
+      "post_id": "timeline_4_post_1",
+      "text": "I feel so alone. I'm a burden to everyone Nobody understands what I'm going through. I hurt myself again Decided to join a support group. started going to therapy Met some people who actually get it. I'm being patient with myself",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I hurt myself again"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.48
+    },
+    {
+      "post_id": "timeline_4_post_2",
+      "text": "I've been struggling with depression for weeks now. Everyone would be better off without me I've been having suicidal thoughts But yesterday I finally used my DBT skills and scheduled an appointment. I deserve to get better",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    },
+    {
+      "post_id": "timeline_4_post_3",
+      "text": "Had a really bad day after weeks of progress. Everyone would be better off without me I don't care about anything anymore Using my coping skills instead of old habits. did some self-care activities This setback doesn't erase my progress. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_4_post_4",
+      "text": "Thought I was getting better but I'm not. I'm worthless and pathetic Back to square one. I've been drinking to cope Reminded myself that recovery isn't linear. started going to therapy Reaching out for support instead of giving up. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.52
+    },
+    {
+      "post_id": "timeline_4_post_5",
+      "text": "Can't even do basic tasks today. I'm broken beyond repair I can't get out of bed anymore Managed to shower and eat breakfast. reached out to my therapist Small steps are still steps forward. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.52
+    },
+    {
+      "post_id": "timeline_4_post_6",
+      "text": "Another day of feeling terrible. I hate myself so much I've been having suicidal thoughts Went outside for 10 minutes. took my medication as prescribed Called a friend. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_4_post_7",
+      "text": "The constant worry is exhausting. I want to give up on everything I can't focus on anything. I gave up trying My therapist recommended meditation so I asked for support and Taking it one day at a time",
+      "adaptive_evidence": [
+        "asked for support",
+        "Taking it one day at a time"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.48
+    },
+    {
+      "post_id": "timeline_4_post_8",
+      "text": "Starting to see the light at the end of the tunnel. reached out to my therapist Therapy is really helping. I'm building a support system Still have rough days. I'm tired of existing But they're getting less frequent. I'm completely numb",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.42
+    },
+    {
+      "post_id": "timeline_4_post_9",
+      "text": "Three weeks without self-harming. practiced my coping strategies So proud of myself. I acknowledge my progress Almost slipped up. I feel empty inside But I reached out for help instead. I acknowledge my progress",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.62
+    },
+    {
+      "post_id": "timeline_4_post_10",
+      "text": "Work is overwhelming me. Nothing will ever get better I'm on the verge of a breakdown. I'm failing at everything Talked to my manager about reducing my workload. talked to a friend about what I'm going through Taking a mental health day tomorrow. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I'm failing at everything"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.53
+    }
+  ]
+}

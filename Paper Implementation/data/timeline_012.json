@@ -1,0 +1,145 @@
+{
+  "summary": "User timeline_12 documents a journey through depression and anxiety, showing gradual progress with therapy and medication.",
+  "posts": [
+    {
+      "post_id": "timeline_12_post_1",
+      "text": "Everything feels impossible. I'm broken beyond repair I'm worthless. I haven't showered in a week Did one small thing today - made my bed. wrote in my journal Trying to celebrate tiny victories. I'm being patient with myself",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I haven't showered in a week"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.55
+    },
+    {
+      "post_id": "timeline_12_post_2",
+      "text": "My anxiety has been through the roof. I'm tired of existing I had a panic attack at work yesterday. I've been drinking to cope But I've been practicing the breathing exercises went for a walk to clear my head and it's starting to help. I'm worth the effort",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_12_post_3",
+      "text": "I've been isolating myself from everyone. Nothing will ever get better I can't see a future for myself But today I reached out to an old friend went for a walk to clear my head and we made plans to meet up. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_12_post_4",
+      "text": "Side effects are awful. I want to give up on everything I'm completely numb Sticking with it because my doctor said it takes time. wrote in my journal Noticing small improvements in my mood. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.41
+    },
+    {
+      "post_id": "timeline_12_post_5",
+      "text": "Haven't left my apartment in days. Nothing will ever get better I isolated myself from all my friends Forced myself to go for a walk today started going to therapy and called my sister. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_12_post_6",
+      "text": "Thinking about stopping my meds. I'm tired of existing I'm spiraling out of control Called my psychiatrist first. reached out for help We're trying a different medication instead. Taking it one day at a time",
+      "adaptive_evidence": [
+        "reached out for help",
+        "Taking it one day at a time"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_12_post_7",
+      "text": "Side effects are awful. Life is meaningless I hurt myself again Sticking with it because my doctor said it takes time. joined a support group Noticing small improvements in my mood. I'm being patient with myself",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "Life is meaningless",
+        "I hurt myself again"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.52
+    },
+    {
+      "post_id": "timeline_12_post_8",
+      "text": "Side effects are awful. I'm tired of existing I'm completely numb Sticking with it because my doctor said it takes time. reached out to my therapist Noticing small improvements in my mood. I'm building a support system",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    },
+    {
+      "post_id": "timeline_12_post_9",
+      "text": "My anxiety has been through the roof. I have no reason to keep going I had a panic attack at work yesterday. I stopped taking my medication But I've been practicing the breathing exercises joined a support group and it's starting to help. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.42
+    },
+    {
+      "post_id": "timeline_12_post_10",
+      "text": "I relapsed again last night. I feel empty inside I hate myself for it. I isolated myself from all my friends Called my therapist this morning talked to a friend about what I'm going through and we talked through it. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.48
+    }
+  ]
+}

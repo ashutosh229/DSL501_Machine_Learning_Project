@@ -1,0 +1,144 @@
+{
+  "summary": "Timeline_21 follows a journey through PTSD treatment with increasing use of coping strategies.",
+  "posts": [
+    {
+      "post_id": "timeline_21_post_1",
+      "text": "The new medication makes me feel numb. Nothing will ever get better I don't feel like myself anymore. I gave up trying Scheduled an appointment to discuss adjusting the dosage. wrote in my journal Keeping a mood journal to track changes. I'm building a support system",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.5
+    },
+    {
+      "post_id": "timeline_21_post_2",
+      "text": "My partner and I have been fighting constantly. I'm worthless and pathetic I feel like I'm ruining everything. I'm failing at everything We decided to try couples therapy. reached out for help Had our first session and it went better than expected. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I'm failing at everything"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.4
+    },
+    {
+      "post_id": "timeline_21_post_3",
+      "text": "My partner and I have been fighting constantly. I deserve to suffer I feel like I'm ruining everything. I haven't showered in a week We decided to try couples therapy. set healthy boundaries Had our first session and it went better than expected. I deserve to get better",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I deserve to suffer",
+        "I haven't showered in a week"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.46
+    },
+    {
+      "post_id": "timeline_21_post_4",
+      "text": "My anxiety has been through the roof. I'm a burden to everyone I had a panic attack at work yesterday. I don't care about anything anymore But I've been practicing the breathing exercises used my DBT skills and it's starting to help. I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_21_post_5",
+      "text": "Another day of feeling terrible. I'm worthless and pathetic I pushed everyone away Went outside for 10 minutes. took my medication as prescribed Called a friend. I'm being patient with myself",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I pushed everyone away"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.53
+    },
+    {
+      "post_id": "timeline_21_post_6",
+      "text": "Work is overwhelming me. Everyone would be better off without me I'm on the verge of a breakdown. I can't see a future for myself Talked to my manager about reducing my workload. did some self-care activities Taking a mental health day tomorrow. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_21_post_7",
+      "text": "Thought I was getting better but I'm not. I'm disgusting Back to square one. I can't get out of bed anymore Reminded myself that recovery isn't linear. reached out for help Reaching out for support instead of giving up. Small steps are still progress",
+      "adaptive_evidence": [
+        "reached out for help",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_21_post_8",
+      "text": "Side effects are awful. I want to give up on everything I'm failing at everything Sticking with it because my doctor said it takes time. reached out to my therapist Noticing small improvements in my mood. I'm not giving up",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything",
+        "I'm failing at everything"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_21_post_9",
+      "text": "Feeling hopeful for the first time in months. did some self-care activities I acknowledge my progress Had a bad moment yesterday. I'm disgusting But I worked through it using my tools. I acknowledge my progress",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.64
+    },
+    {
+      "post_id": "timeline_21_post_10",
+      "text": "The new medication makes me feel numb. I'm worthless and pathetic I don't feel like myself anymore. I'm failing at everything Scheduled an appointment to discuss adjusting the dosage. reached out for help Keeping a mood journal to track changes. Small steps are still progress",
+      "adaptive_evidence": [
+        "reached out for help",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I'm failing at everything"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.5
+    }
+  ]
+}

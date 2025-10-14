@@ -1,0 +1,145 @@
+{
+  "summary": "User timeline_15 documents recovery from severe depression, including setbacks and ultimate progress.",
+  "posts": [
+    {
+      "post_id": "timeline_15_post_1",
+      "text": "Feel like I don't deserve to be loved. I'm tired of existing I gave up trying My partner has been incredibly supportive. went for a walk to clear my head Learning to accept help and love. I'm being patient with myself",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_15_post_2",
+      "text": "Everything feels impossible. I can't do anything right I'm worthless. I can't get out of bed anymore Did one small thing today - made my bed. took my medication as prescribed Trying to celebrate tiny victories. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_15_post_3",
+      "text": "Had a really bad day after weeks of progress. I'm disgusting I stopped taking my medication Using my coping skills instead of old habits. did some self-care activities This setback doesn't erase my progress. Taking it one day at a time",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "Taking it one day at a time"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_15_post_4",
+      "text": "The urges to self-harm are strong. I feel completely hopeless I can't get out of bed anymore Using the distraction techniques I learned. did some self-care activities Reached out to my crisis support instead. I'm worth the effort",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless",
+        "I can't get out of bed anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.54
+    },
+    {
+      "post_id": "timeline_15_post_5",
+      "text": "Side effects are awful. I have no reason to keep going I'm spiraling out of control Sticking with it because my doctor said it takes time. asked for support Noticing small improvements in my mood. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "asked for support",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.6
+    },
+    {
+      "post_id": "timeline_15_post_6",
+      "text": "Thought I was getting better but I'm not. I hate myself so much Back to square one. I pushed everyone away Reminded myself that recovery isn't linear. reached out for help Reaching out for support instead of giving up. I'm not giving up",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I pushed everyone away"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_15_post_7",
+      "text": "Thought I was getting better but I'm not. I feel empty inside Back to square one. I'm losing my mind Reminded myself that recovery isn't linear. went for a walk to clear my head Reaching out for support instead of giving up. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I'm losing my mind"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.54
+    },
+    {
+      "post_id": "timeline_15_post_8",
+      "text": "Thinking about stopping my meds. I hate myself so much I isolated myself from all my friends Called my psychiatrist first. went for a walk to clear my head We're trying a different medication instead. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    },
+    {
+      "post_id": "timeline_15_post_9",
+      "text": "I'm going to get fired, I know it. I'm broken beyond repair My performance has been terrible. I'm failing at everything Met with HR about accommodations. wrote in my journal They're being supportive. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I'm failing at everything"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_15_post_10",
+      "text": "Everything feels impossible. I can't do anything right I'm worthless. I gave up trying Did one small thing today - made my bed. did some self-care activities Trying to celebrate tiny victories. I acknowledge my progress",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.55
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "summary": "Timeline_23 documents managing panic disorder and agoraphobia with professional help.",
+  "posts": [
+    {
+      "post_id": "timeline_23_post_1",
+      "text": "Feel like I'll never get better. I feel empty inside All this therapy for nothing. I'm completely numb My therapist reminded me how far I've come. talked to a friend about what I'm going through Looking at my progress journal from six months ago. I'm not giving up",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_23_post_2",
+      "text": "I push everyone away when I'm depressed. Everyone would be better off without me I'm spiraling out of control Trying to communicate better with my partner. practiced my coping strategies I apologized and explained what I'm going through. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.52
+    },
+    {
+      "post_id": "timeline_23_post_3",
+      "text": "Work is overwhelming me. I can't do anything right I'm on the verge of a breakdown. I isolated myself from all my friends Talked to my manager about reducing my workload. took my medication as prescribed Taking a mental health day tomorrow. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.48
+    },
+    {
+      "post_id": "timeline_23_post_4",
+      "text": "Feel like I don't deserve to be loved. I'm disgusting I gave up trying My partner has been incredibly supportive. tried a new coping mechanism Learning to accept help and love. I'm building a support system",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "I'm building a support system"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_23_post_5",
+      "text": "Work is overwhelming me. I'm tired of existing I'm on the verge of a breakdown. I gave up trying Talked to my manager about reducing my workload. talked to a friend about what I'm going through Taking a mental health day tomorrow. I acknowledge my progress",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_23_post_6",
+      "text": "The new medication makes me feel numb. I'm tired of existing I don't feel like myself anymore. I don't care about anything anymore Scheduled an appointment to discuss adjusting the dosage. called the crisis hotline Keeping a mood journal to track changes. I deserve to get better",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_23_post_7",
+      "text": "Work is overwhelming me. I have no reason to keep going I'm on the verge of a breakdown. I don't care about anything anymore Talked to my manager about reducing my workload. asked for support Taking a mental health day tomorrow. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "asked for support",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.6
+    },
+    {
+      "post_id": "timeline_23_post_8",
+      "text": "Can't even do basic tasks today. I have no reason to keep going I gave up trying Managed to shower and eat breakfast. used my DBT skills Small steps are still steps forward. Things can get better",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_23_post_9",
+      "text": "Can't handle the pressure anymore. I hate myself so much I stopped taking my medication Started setting better boundaries at work. practiced my coping strategies Learned to say no to extra projects. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.5
+    },
+    {
+      "post_id": "timeline_23_post_10",
+      "text": "I relapsed again last night. I hate myself so much I hate myself for it. I isolated myself from all my friends Called my therapist this morning joined a support group and we talked through it. I'm being patient with myself",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_23_post_11",
+      "text": "Another day of feeling terrible. I'm disgusting I don't care about anything anymore Went outside for 10 minutes. tried a new coping mechanism Called a friend. Things can get better",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.41
+    },
+    {
+      "post_id": "timeline_23_post_12",
+      "text": "I'm going to get fired, I know it. I hate myself so much My performance has been terrible. I'm completely numb Met with HR about accommodations. used my DBT skills They're being supportive. I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_23_post_13",
+      "text": "Starting to see the light at the end of the tunnel. reached out to my therapist Therapy is really helping. Small steps are still progress Still have rough days. I'm broken beyond repair But they're getting less frequent. I hurt myself again",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I hurt myself again"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_23_post_14",
+      "text": "The urges to self-harm are strong. I'm tired of existing I've been drinking to cope Using the distraction techniques I learned. set healthy boundaries Reached out to my crisis support instead. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_23_post_15",
+      "text": "I feel like such a failure. I'm worthless and pathetic Can't stop thinking about hurting myself. I've been drinking to cope But I remembered my safety plan set healthy boundaries and texted my sponsor. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "summary": "User timeline_25 chronicles struggles with OCD and anxiety, showing gradual improvement with therapy.",
+  "posts": [
+    {
+      "post_id": "timeline_25_post_1",
+      "text": "I feel anxious all the time. I'm worthless and pathetic I've been drinking to cope Started using the coping strategies from therapy. called the crisis hotline I'm trying to be patient with myself. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.45
+    },
+    {
+      "post_id": "timeline_25_post_2",
+      "text": "Feeling hopeful for the first time in months. called the crisis hotline I'm being patient with myself Had a bad moment yesterday. I want to give up on everything But I worked through it using my tools. I'm being patient with myself",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.75
+    },
+    {
+      "post_id": "timeline_25_post_3",
+      "text": "Three weeks without self-harming. wrote in my journal So proud of myself. Things can get better Almost slipped up. I feel completely hopeless But I reached out for help instead. Things can get better",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.68
+    },
+    {
+      "post_id": "timeline_25_post_4",
+      "text": "I feel so alone. Everyone would be better off without me Nobody understands what I'm going through. I've been having suicidal thoughts Decided to join a support group. reached out for help Met some people who actually get it. I'm not giving up",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.45
+    },
+    {
+      "post_id": "timeline_25_post_5",
+      "text": "The new medication makes me feel numb. I have no reason to keep going I don't feel like myself anymore. I gave up trying Scheduled an appointment to discuss adjusting the dosage. called the crisis hotline Keeping a mood journal to track changes. Things can get better",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    },
+    {
+      "post_id": "timeline_25_post_6",
+      "text": "The constant worry is exhausting. I feel empty inside I can't focus on anything. I pushed everyone away My therapist recommended meditation so I set healthy boundaries and Things can get better",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I pushed everyone away"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_25_post_7",
+      "text": "Side effects are awful. I feel completely hopeless I gave up trying Sticking with it because my doctor said it takes time. used my DBT skills Noticing small improvements in my mood. I'm not giving up",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.45
+    },
+    {
+      "post_id": "timeline_25_post_8",
+      "text": "Everything feels hopeless lately. I deserve to suffer I can barely get myself out of bed most days. I isolated myself from all my friends Today though, I managed to practiced my coping strategies which is a small victory.",
+      "adaptive_evidence": [
+        "practiced my coping strategies"
+      ],
+      "maladaptive_evidence": [
+        "I deserve to suffer",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post primarily shows distress with some coping attempts",
+      "wellbeing_score": 0.28
+    },
+    {
+      "post_id": "timeline_25_post_9",
+      "text": "The constant worry is exhausting. I'm broken beyond repair I can't focus on anything. I'm spiraling out of control My therapist recommended meditation so I practiced my coping strategies and I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.41
+    },
+    {
+      "post_id": "timeline_25_post_10",
+      "text": "Everything feels impossible. I'm disgusting I'm worthless. I gave up trying Did one small thing today - made my bed. talked to a friend about what I'm going through Trying to celebrate tiny victories. I'm being patient with myself",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_25_post_11",
+      "text": "Feel like I'll never get better. I'm a burden to everyone All this therapy for nothing. I gave up trying My therapist reminded me how far I've come. talked to a friend about what I'm going through Looking at my progress journal from six months ago. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_25_post_12",
+      "text": "Thought I was getting better but I'm not. Nothing will ever get better Back to square one. I stopped taking my medication Reminded myself that recovery isn't linear. reached out to my therapist Reaching out for support instead of giving up. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.44
+    },
+    {
+      "post_id": "timeline_25_post_13",
+      "text": "Everything feels hopeless lately. Life is meaningless I can barely get myself out of bed most days. I've been drinking to cope Today though, I managed to took my medication as prescribed which is a small victory.",
+      "adaptive_evidence": [
+        "took my medication as prescribed"
+      ],
+      "maladaptive_evidence": [
+        "Life is meaningless",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post primarily shows distress with some coping attempts",
+      "wellbeing_score": 0.31
+    },
+    {
+      "post_id": "timeline_25_post_14",
+      "text": "Everything feels impossible. Nothing will ever get better I'm worthless. I've been having suicidal thoughts Did one small thing today - made my bed. set healthy boundaries Trying to celebrate tiny victories. I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.44
+    },
+    {
+      "post_id": "timeline_25_post_15",
+      "text": "Work is overwhelming me. I'm disgusting I'm on the verge of a breakdown. I gave up trying Talked to my manager about reducing my workload. practiced my coping strategies Taking a mental health day tomorrow. I deserve to get better",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.42
+    }
+  ]
+}

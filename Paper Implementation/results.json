@@ -1,0 +1,42 @@
+{
+  "baseline": {
+    "adaptive_recall": 0.0,
+    "maladaptive_recall": 0.17647058823529413,
+    "adaptive_weighted_recall": 0.0,
+    "maladaptive_weighted_recall": 0.05679513184584179,
+    "overall_recall": 0.08823529411764706,
+    "overall_weighted_recall": 0.028397565922920896
+  },
+  "baseline_context": {
+    "adaptive_recall": 0.0,
+    "maladaptive_recall": 0.17647058823529413,
+    "adaptive_weighted_recall": 0.0,
+    "maladaptive_weighted_recall": 0.05679513184584179,
+    "overall_recall": 0.08823529411764706,
+    "overall_weighted_recall": 0.028397565922920896
+  },
+  "baseline_importance": {
+    "adaptive_recall": 0.0,
+    "maladaptive_recall": 0.17647058823529413,
+    "adaptive_weighted_recall": 0.0,
+    "maladaptive_weighted_recall": 0.05679513184584179,
+    "overall_recall": 0.08823529411764706,
+    "overall_weighted_recall": 0.028397565922920896
+  },
+  "span_id": {
+    "adaptive_recall": 0.0,
+    "maladaptive_recall": 0.0,
+    "adaptive_weighted_recall": 0.0,
+    "maladaptive_weighted_recall": 0.0,
+    "overall_recall": 0.0,
+    "overall_weighted_recall": 0.0
+  },
+  "span_id_boost": {
+    "adaptive_recall": 0.0,
+    "maladaptive_recall": 0.0,
+    "adaptive_weighted_recall": 0.0,
+    "maladaptive_weighted_recall": 0.0,
+    "overall_recall": 0.0,
+    "overall_weighted_recall": 0.0
+  }
+}

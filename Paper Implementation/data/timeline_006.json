@@ -1,0 +1,145 @@
+{
+  "summary": "Timeline_6 follows a journey through PTSD treatment with increasing use of coping strategies.",
+  "posts": [
+    {
+      "post_id": "timeline_6_post_1",
+      "text": "I feel like such a failure. I'm worthless and pathetic Can't stop thinking about hurting myself. I gave up trying But I remembered my safety plan called the crisis hotline and texted my sponsor. I'm not giving up",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_6_post_2",
+      "text": "Thinking about stopping my meds. I'm broken beyond repair I haven't showered in a week Called my psychiatrist first. tried a new coping mechanism We're trying a different medication instead. I acknowledge my progress",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I haven't showered in a week"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.45
+    },
+    {
+      "post_id": "timeline_6_post_3",
+      "text": "I've been isolating myself from everyone. Life is meaningless I'm failing at everything But today I reached out to an old friend reached out to my therapist and we made plans to meet up. I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "Life is meaningless",
+        "I'm failing at everything"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.55
+    },
+    {
+      "post_id": "timeline_6_post_4",
+      "text": "Can't handle the pressure anymore. I deserve to suffer I gave up trying Started setting better boundaries at work. asked for support Learned to say no to extra projects. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "asked for support",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I deserve to suffer",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_6_post_5",
+      "text": "My partner and I have been fighting constantly. I deserve to suffer I feel like I'm ruining everything. I don't care about anything anymore We decided to try couples therapy. called the crisis hotline Had our first session and it went better than expected. Small steps are still progress",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I deserve to suffer",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_6_post_6",
+      "text": "Thought I was getting better but I'm not. I'm worthless and pathetic Back to square one. I can't see a future for myself Reminded myself that recovery isn't linear. tried a new coping mechanism Reaching out for support instead of giving up. I'm worth the effort",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_6_post_7",
+      "text": "I relapsed again last night. I feel completely hopeless I hate myself for it. I gave up trying Called my therapist this morning started going to therapy and we talked through it. Small steps are still progress",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_6_post_8",
+      "text": "I feel anxious all the time. I can't do anything right I gave up trying Started using the coping strategies from therapy. took my medication as prescribed I'm trying to be patient with myself. Small steps are still progress",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.54
+    },
+    {
+      "post_id": "timeline_6_post_9",
+      "text": "Everything feels impossible. I feel completely hopeless I'm worthless. I isolated myself from all my friends Did one small thing today - made my bed. tried a new coping mechanism Trying to celebrate tiny victories. I deserve to get better",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.44
+    },
+    {
+      "post_id": "timeline_6_post_10",
+      "text": "My partner and I have been fighting constantly. I want to give up on everything I feel like I'm ruining everything. I'm completely numb We decided to try couples therapy. used my DBT skills Had our first session and it went better than expected. I'm not giving up",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.55
+    }
+  ]
+}

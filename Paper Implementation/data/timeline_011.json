@@ -1,0 +1,214 @@
+{
+  "summary": "User timeline_11 describes dealing with social anxiety and isolation, with increasing engagement in treatment.",
+  "posts": [
+    {
+      "post_id": "timeline_11_post_1",
+      "text": "The new medication makes me feel numb. I'm broken beyond repair I don't feel like myself anymore. I pushed everyone away Scheduled an appointment to discuss adjusting the dosage. wrote in my journal Keeping a mood journal to track changes. I deserve to get better",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I pushed everyone away"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.52
+    },
+    {
+      "post_id": "timeline_11_post_2",
+      "text": "Everything feels impossible. I'm a burden to everyone I'm worthless. I'm failing at everything Did one small thing today - made my bed. asked for support Trying to celebrate tiny victories. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "asked for support",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I'm failing at everything"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.52
+    },
+    {
+      "post_id": "timeline_11_post_3",
+      "text": "Work is overwhelming me. I'm disgusting I'm on the verge of a breakdown. I'm losing my mind Talked to my manager about reducing my workload. called the crisis hotline Taking a mental health day tomorrow. I deserve to get better",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I'm losing my mind"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.58
+    },
+    {
+      "post_id": "timeline_11_post_4",
+      "text": "The urges to self-harm are strong. I'm tired of existing I'm completely numb Using the distraction techniques I learned. wrote in my journal Reached out to my crisis support instead. Small steps are still progress",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_11_post_5",
+      "text": "Had a really bad day after weeks of progress. I hate myself so much I hurt myself again Using my coping skills instead of old habits. started going to therapy This setback doesn't erase my progress. I'm not giving up",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I hurt myself again"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_11_post_6",
+      "text": "Can't handle the pressure anymore. Life is meaningless I'm completely numb Started setting better boundaries at work. did some self-care activities Learned to say no to extra projects. I acknowledge my progress",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "Life is meaningless",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.46
+    },
+    {
+      "post_id": "timeline_11_post_7",
+      "text": "The depression is getting worse. I'm worthless and pathetic I isolated myself from all my friends I know I need help so I started going to therapy My therapist suggested I'm working on self-compassion",
+      "adaptive_evidence": [
+        "started going to therapy",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.48
+    },
+    {
+      "post_id": "timeline_11_post_8",
+      "text": "Can't even do basic tasks today. I'm broken beyond repair I hurt myself again Managed to shower and eat breakfast. wrote in my journal Small steps are still steps forward. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I hurt myself again"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.5
+    },
+    {
+      "post_id": "timeline_11_post_9",
+      "text": "I've been struggling with depression for weeks now. Nothing will ever get better I stopped taking my medication But yesterday I finally used my DBT skills and scheduled an appointment. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.45
+    },
+    {
+      "post_id": "timeline_11_post_10",
+      "text": "Feeling hopeful for the first time in months. took my medication as prescribed Things can get better Had a bad moment yesterday. I'm a burden to everyone But I worked through it using my tools. Things can get better",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.64
+    },
+    {
+      "post_id": "timeline_11_post_11",
+      "text": "Everything feels impossible. I can't do anything right I'm worthless. I don't care about anything anymore Did one small thing today - made my bed. went for a walk to clear my head Trying to celebrate tiny victories. I deserve to get better",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.46
+    },
+    {
+      "post_id": "timeline_11_post_12",
+      "text": "I relapsed again last night. I'm broken beyond repair I hate myself for it. I stopped taking my medication Called my therapist this morning practiced my coping strategies and we talked through it. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.55
+    },
+    {
+      "post_id": "timeline_11_post_13",
+      "text": "I've been isolating myself from everyone. I'm worthless and pathetic I don't care about anything anymore But today I reached out to an old friend went for a walk to clear my head and we made plans to meet up. I deserve to get better",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.54
+    },
+    {
+      "post_id": "timeline_11_post_14",
+      "text": "Another day of feeling terrible. Nothing will ever get better I isolated myself from all my friends Went outside for 10 minutes. asked for support Called a friend. Taking it one day at a time",
+      "adaptive_evidence": [
+        "asked for support",
+        "Taking it one day at a time"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.46
+    },
+    {
+      "post_id": "timeline_11_post_15",
+      "text": "Work is overwhelming me. Nothing will ever get better I'm on the verge of a breakdown. I've been having suicidal thoughts Talked to my manager about reducing my workload. did some self-care activities Taking a mental health day tomorrow. Things can get better",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    }
+  ]
+}

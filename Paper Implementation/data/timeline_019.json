@@ -1,0 +1,171 @@
+{
+  "summary": "User timeline_19 documents a journey through depression and anxiety, showing gradual progress with therapy and medication.",
+  "posts": [
+    {
+      "post_id": "timeline_19_post_1",
+      "text": "I feel so alone. I feel completely hopeless Nobody understands what I'm going through. I haven't showered in a week Decided to join a support group. did some self-care activities Met some people who actually get it. Small steps are still progress",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless",
+        "I haven't showered in a week"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.51
+    },
+    {
+      "post_id": "timeline_19_post_2",
+      "text": "I feel anxious all the time. I'm a burden to everyone I'm spiraling out of control Started using the coping strategies from therapy. practiced my coping strategies I'm trying to be patient with myself. Things can get better",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.52
+    },
+    {
+      "post_id": "timeline_19_post_3",
+      "text": "Feel like I'll never get better. I'm worthless and pathetic All this therapy for nothing. I'm completely numb My therapist reminded me how far I've come. reached out to my therapist Looking at my progress journal from six months ago. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_19_post_4",
+      "text": "Everything feels impossible. I'm a burden to everyone I'm worthless. I gave up trying Did one small thing today - made my bed. reached out to my therapist Trying to celebrate tiny victories. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "reached out to my therapist",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.6
+    },
+    {
+      "post_id": "timeline_19_post_5",
+      "text": "Side effects are awful. I have no reason to keep going I isolated myself from all my friends Sticking with it because my doctor said it takes time. went for a walk to clear my head Noticing small improvements in my mood. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I have no reason to keep going",
+        "I isolated myself from all my friends"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.58
+    },
+    {
+      "post_id": "timeline_19_post_6",
+      "text": "My anxiety has been through the roof. I can't do anything right I had a panic attack at work yesterday. I'm completely numb But I've been practicing the breathing exercises talked to a friend about what I'm going through and it's starting to help. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I'm completely numb"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.43
+    },
+    {
+      "post_id": "timeline_19_post_7",
+      "text": "Three weeks without self-harming. took my medication as prescribed So proud of myself. I'm working on self-compassion Almost slipped up. I'm tired of existing But I reached out for help instead. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I'm tired of existing"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.63
+    },
+    {
+      "post_id": "timeline_19_post_8",
+      "text": "Three weeks without self-harming. went for a walk to clear my head So proud of myself. Things can get better Almost slipped up. Nothing will ever get better But I reached out for help instead. Things can get better",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "Nothing will ever get better"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.69
+    },
+    {
+      "post_id": "timeline_19_post_9",
+      "text": "The constant worry is exhausting. I want to give up on everything I can't focus on anything. I can't see a future for myself My therapist recommended meditation so I wrote in my journal and I'm learning healthier coping skills",
+      "adaptive_evidence": [
+        "wrote in my journal",
+        "I'm learning healthier coping skills"
+      ],
+      "maladaptive_evidence": [
+        "I want to give up on everything",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.58
+    },
+    {
+      "post_id": "timeline_19_post_10",
+      "text": "Another day of feeling terrible. I'm disgusting I stopped taking my medication Went outside for 10 minutes. used my DBT skills Called a friend. I'm worth the effort",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I stopped taking my medication"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.58
+    },
+    {
+      "post_id": "timeline_19_post_11",
+      "text": "Side effects are awful. I'm disgusting I hurt myself again Sticking with it because my doctor said it takes time. used my DBT skills Noticing small improvements in my mood. Small steps are still progress",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "Small steps are still progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I hurt myself again"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.55
+    },
+    {
+      "post_id": "timeline_19_post_12",
+      "text": "Can't handle the pressure anymore. I can't do anything right I gave up trying Started setting better boundaries at work. joined a support group Learned to say no to extra projects. I'm not giving up",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I can't do anything right",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    }
+  ]
+}

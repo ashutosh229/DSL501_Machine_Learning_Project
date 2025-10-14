@@ -1,0 +1,157 @@
+{
+  "summary": "Timeline_24 follows a journey through PTSD treatment with increasing use of coping strategies.",
+  "posts": [
+    {
+      "post_id": "timeline_24_post_1",
+      "text": "Feeling hopeful for the first time in months. set healthy boundaries I deserve to get better Had a bad moment yesterday. I'm a burden to everyone But I worked through it using my tools. I deserve to get better",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "I deserve to get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone"
+      ],
+      "summary": "Post shows active coping and progress despite challenges",
+      "wellbeing_score": 0.72
+    },
+    {
+      "post_id": "timeline_24_post_2",
+      "text": "Another day of feeling terrible. Everyone would be better off without me I haven't showered in a week Went outside for 10 minutes. asked for support Called a friend. Taking it one day at a time",
+      "adaptive_evidence": [
+        "asked for support",
+        "Taking it one day at a time"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I haven't showered in a week"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_24_post_3",
+      "text": "I feel so alone. I feel completely hopeless Nobody understands what I'm going through. I gave up trying Decided to join a support group. went for a walk to clear my head Met some people who actually get it. I'm being patient with myself",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "I feel completely hopeless",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.47
+    },
+    {
+      "post_id": "timeline_24_post_4",
+      "text": "The constant worry is exhausting. I'm disgusting I can't focus on anything. I pushed everyone away My therapist recommended meditation so I asked for support and Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "asked for support",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I pushed everyone away"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.46
+    },
+    {
+      "post_id": "timeline_24_post_5",
+      "text": "I feel so alone. I'm a burden to everyone Nobody understands what I'm going through. I'm losing my mind Decided to join a support group. took my medication as prescribed Met some people who actually get it. I'm proud of myself for trying",
+      "adaptive_evidence": [
+        "took my medication as prescribed",
+        "I'm proud of myself for trying"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I'm losing my mind"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_24_post_6",
+      "text": "My anxiety has been through the roof. I'm disgusting I had a panic attack at work yesterday. I hurt myself again But I've been practicing the breathing exercises tried a new coping mechanism and it's starting to help. I'm not giving up",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I hurt myself again"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    },
+    {
+      "post_id": "timeline_24_post_7",
+      "text": "The new medication makes me feel numb. Everyone would be better off without me I don't feel like myself anymore. I pushed everyone away Scheduled an appointment to discuss adjusting the dosage. practiced my coping strategies Keeping a mood journal to track changes. Taking it one day at a time",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "Taking it one day at a time"
+      ],
+      "maladaptive_evidence": [
+        "Everyone would be better off without me",
+        "I pushed everyone away"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.48
+    },
+    {
+      "post_id": "timeline_24_post_8",
+      "text": "I feel anxious all the time. I'm worthless and pathetic I've been having suicidal thoughts Started using the coping strategies from therapy. practiced my coping strategies I'm trying to be patient with myself. I acknowledge my progress",
+      "adaptive_evidence": [
+        "practiced my coping strategies",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.42
+    },
+    {
+      "post_id": "timeline_24_post_9",
+      "text": "Work is overwhelming me. I hate myself so much I'm on the verge of a breakdown. I've been having suicidal thoughts Talked to my manager about reducing my workload. joined a support group Taking a mental health day tomorrow. I acknowledge my progress",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I acknowledge my progress"
+      ],
+      "maladaptive_evidence": [
+        "I hate myself so much",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_24_post_10",
+      "text": "Haven't left my apartment in days. I'm a burden to everyone I hurt myself again Forced myself to go for a walk today reached out for help and called my sister. I'm learning to be kinder to myself",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm learning to be kinder to myself"
+      ],
+      "maladaptive_evidence": [
+        "I'm a burden to everyone",
+        "I hurt myself again"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.58
+    },
+    {
+      "post_id": "timeline_24_post_11",
+      "text": "Everything feels hopeless lately. I'm worthless and pathetic I can barely get myself out of bed most days. I can't see a future for myself Today though, I managed to talked to a friend about what I'm going through which is a small victory.",
+      "adaptive_evidence": [
+        "talked to a friend about what I'm going through"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I can't see a future for myself"
+      ],
+      "summary": "Post primarily shows distress with some coping attempts",
+      "wellbeing_score": 0.34
+    }
+  ]
+}

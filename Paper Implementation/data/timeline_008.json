@@ -1,0 +1,145 @@
+{
+  "summary": "Timeline_8 shows someone managing bipolar disorder with medication adjustments and therapeutic support.",
+  "posts": [
+    {
+      "post_id": "timeline_8_post_1",
+      "text": "Feel like I'll never get better. I'm disgusting All this therapy for nothing. I'm spiraling out of control My therapist reminded me how far I've come. called the crisis hotline Looking at my progress journal from six months ago. I'm worth the effort",
+      "adaptive_evidence": [
+        "called the crisis hotline",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I'm spiraling out of control"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.48
+    },
+    {
+      "post_id": "timeline_8_post_2",
+      "text": "Starting to see the light at the end of the tunnel. used my DBT skills Therapy is really helping. I'm worth the effort Still have rough days. I'm broken beyond repair But they're getting less frequent. I don't care about anything anymore",
+      "adaptive_evidence": [
+        "used my DBT skills",
+        "I'm worth the effort"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.48
+    },
+    {
+      "post_id": "timeline_8_post_3",
+      "text": "Haven't left my apartment in days. I'm broken beyond repair I've been having suicidal thoughts Forced myself to go for a walk today tried a new coping mechanism and called my sister. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I'm broken beyond repair",
+        "I've been having suicidal thoughts"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.57
+    },
+    {
+      "post_id": "timeline_8_post_4",
+      "text": "I feel anxious all the time. I'm worthless and pathetic I haven't showered in a week Started using the coping strategies from therapy. set healthy boundaries I'm trying to be patient with myself. I'm working on self-compassion",
+      "adaptive_evidence": [
+        "set healthy boundaries",
+        "I'm working on self-compassion"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I haven't showered in a week"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.5
+    },
+    {
+      "post_id": "timeline_8_post_5",
+      "text": "The depression is getting worse. I'm worthless and pathetic I'm losing my mind I know I need help so I asked for support My therapist suggested Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "asked for support",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I'm losing my mind"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_8_post_6",
+      "text": "Feel like I'll never get better. I feel empty inside All this therapy for nothing. I pushed everyone away My therapist reminded me how far I've come. reached out for help Looking at my progress journal from six months ago. I'm not giving up",
+      "adaptive_evidence": [
+        "reached out for help",
+        "I'm not giving up"
+      ],
+      "maladaptive_evidence": [
+        "I feel empty inside",
+        "I pushed everyone away"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.59
+    },
+    {
+      "post_id": "timeline_8_post_7",
+      "text": "Feel like I'll never get better. I'm disgusting All this therapy for nothing. I don't care about anything anymore My therapist reminded me how far I've come. tried a new coping mechanism Looking at my progress journal from six months ago. Things can get better",
+      "adaptive_evidence": [
+        "tried a new coping mechanism",
+        "Things can get better"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I don't care about anything anymore"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_8_post_8",
+      "text": "Everything feels impossible. Life is meaningless I'm worthless. I haven't showered in a week Did one small thing today - made my bed. did some self-care activities Trying to celebrate tiny victories. I'm being patient with myself",
+      "adaptive_evidence": [
+        "did some self-care activities",
+        "I'm being patient with myself"
+      ],
+      "maladaptive_evidence": [
+        "Life is meaningless",
+        "I haven't showered in a week"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.49
+    },
+    {
+      "post_id": "timeline_8_post_9",
+      "text": "My partner and I have been fighting constantly. I'm disgusting I feel like I'm ruining everything. I gave up trying We decided to try couples therapy. joined a support group Had our first session and it went better than expected. I'm committed to my recovery",
+      "adaptive_evidence": [
+        "joined a support group",
+        "I'm committed to my recovery"
+      ],
+      "maladaptive_evidence": [
+        "I'm disgusting",
+        "I gave up trying"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.56
+    },
+    {
+      "post_id": "timeline_8_post_10",
+      "text": "Feel like I'll never get better. I'm worthless and pathetic All this therapy for nothing. I've been drinking to cope My therapist reminded me how far I've come. went for a walk to clear my head Looking at my progress journal from six months ago. Recovery is a journey, not a destination",
+      "adaptive_evidence": [
+        "went for a walk to clear my head",
+        "Recovery is a journey, not a destination"
+      ],
+      "maladaptive_evidence": [
+        "I'm worthless and pathetic",
+        "I've been drinking to cope"
+      ],
+      "summary": "Post shows mixed emotional state with both struggles and coping",
+      "wellbeing_score": 0.54
+    }
+  ]
+}
