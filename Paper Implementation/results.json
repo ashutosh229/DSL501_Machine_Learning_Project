@@ -1,0 +1,42 @@
+{
+  "baseline": {
+    "adaptive_recall": 0.0,
+    "maladaptive_recall": 0.5627020038784745,
+    "adaptive_weighted_recall": 0.0,
+    "maladaptive_weighted_recall": 0.12220296043825456,
+    "overall_recall": 0.28135100193923723,
+    "overall_weighted_recall": 0.06110148021912728
+  },
+  "baseline_context": {
+    "adaptive_recall": 0.0,
+    "maladaptive_recall": 0.5627020038784745,
+    "adaptive_weighted_recall": 0.0,
+    "maladaptive_weighted_recall": 0.12220296043825456,
+    "overall_recall": 0.28135100193923723,
+    "overall_weighted_recall": 0.06110148021912728
+  },
+  "baseline_importance": {
+    "adaptive_recall": 0.0,
+    "maladaptive_recall": 0.5627020038784745,
+    "adaptive_weighted_recall": 0.0,
+    "maladaptive_weighted_recall": 0.12220296043825456,
+    "overall_recall": 0.28135100193923723,
+    "overall_weighted_recall": 0.06110148021912728
+  },
+  "span_id": {
+    "adaptive_recall": 0.0,
+    "maladaptive_recall": 0.0,
+    "adaptive_weighted_recall": 0.0,
+    "maladaptive_weighted_recall": 0.0,
+    "overall_recall": 0.0,
+    "overall_weighted_recall": 0.0
+  },
+  "span_id_boost": {
+    "adaptive_recall": 0.0,
+    "maladaptive_recall": 0.0,
+    "adaptive_weighted_recall": 0.0,
+    "maladaptive_weighted_recall": 0.0,
+    "overall_recall": 0.0,
+    "overall_weighted_recall": 0.0
+  }
+}
