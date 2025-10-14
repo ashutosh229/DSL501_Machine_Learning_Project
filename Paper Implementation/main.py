@@ -29,6 +29,8 @@ if __name__ == "__main__":
     for timeline in timelines:
         all_posts.extend(timeline.posts)
 
+    all_posts = all_posts[:10]
+
     
     print("Loaded the posts across all the timelines")
     
