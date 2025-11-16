@@ -1,5 +1,4 @@
 venv  
-git_push.sh
 resources
 .env
 __pycache__/
