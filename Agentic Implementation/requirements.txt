@@ -1,7 +1,0 @@
-wandb
-spacy 
-bert_score 
-transformers  
-sentence_transformers  
-scikit-learn
-

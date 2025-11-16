@@ -3,7 +3,6 @@ from scripts.llm.real import LLMInterface
 from scripts.experimentRunner import ExperimentRunner
 from scripts.dataLoader import DataLoader
 import json
-from models.redditPost import Post
 
 if __name__ == "__main__":
     print("Self-State Identification and Classification System")
@@ -22,14 +21,14 @@ if __name__ == "__main__":
         llm = LLMInterface(model_name="./resources/gemma-2-9b-it", use_4bit=True)
         classifier = SelfStateClassifier(llm_interface=llm)
     
-    # Create sample test data (since we don't have actual CLPsych data)
+
     print("\nLoading the data...")
     timelines = DataLoader.load_all_timelines("data")
     all_posts = []
     for timeline in timelines:
         all_posts.extend(timeline.posts)
 
-    all_posts = all_posts[:10]
+    # all_posts = all_posts[:10]
 
     
     print("Loaded the posts across all the timelines")
@@ -101,7 +100,3 @@ if __name__ == "__main__":
     print(f"Maladaptive spans ({len(maladaptive)}):")
     for span in maladaptive:
         print(f"  - {span.text}")
-    
-    print("\n" + "="*60)
-    print("Setup Instructions for Real Data:")
-    print("="*60)

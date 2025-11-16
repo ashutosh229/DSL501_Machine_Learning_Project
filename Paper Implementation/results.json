@@ -1,27 +1,27 @@
 {
   "baseline": {
     "adaptive_recall": 0.0,
-    "maladaptive_recall": 0.5627020038784745,
+    "maladaptive_recall": 1.0,
     "adaptive_weighted_recall": 0.0,
-    "maladaptive_weighted_recall": 0.12220296043825456,
-    "overall_recall": 0.28135100193923723,
-    "overall_weighted_recall": 0.06110148021912728
+    "maladaptive_weighted_recall": 0.22882258923814597,
+    "overall_recall": 0.5,
+    "overall_weighted_recall": 0.11441129461907298
   },
   "baseline_context": {
     "adaptive_recall": 0.0,
-    "maladaptive_recall": 0.5627020038784745,
+    "maladaptive_recall": 1.0,
     "adaptive_weighted_recall": 0.0,
-    "maladaptive_weighted_recall": 0.12220296043825456,
-    "overall_recall": 0.28135100193923723,
-    "overall_weighted_recall": 0.06110148021912728
+    "maladaptive_weighted_recall": 0.22882258923814597,
+    "overall_recall": 0.5,
+    "overall_weighted_recall": 0.11441129461907298
   },
   "baseline_importance": {
     "adaptive_recall": 0.0,
-    "maladaptive_recall": 0.5627020038784745,
+    "maladaptive_recall": 1.0,
     "adaptive_weighted_recall": 0.0,
-    "maladaptive_weighted_recall": 0.12220296043825456,
-    "overall_recall": 0.28135100193923723,
-    "overall_weighted_recall": 0.06110148021912728
+    "maladaptive_weighted_recall": 0.22882258923814597,
+    "overall_recall": 0.5,
+    "overall_weighted_recall": 0.11441129461907298
   },
   "span_id": {
     "adaptive_recall": 0.0,
